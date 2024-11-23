@@ -1,0 +1,46 @@
+.container{
+    margin: 20px auto;
+    padding: 10px;
+    display: flex;
+}
+
+.one{
+    color: red;
+}
+.content{
+    flex: 3;
+    margin: 20px;
+    padding: 20px;
+}
+.content h1{
+    margin: auto;
+    text-align: center;
+}
+.content h2{
+    margin-left: 15px;
+}
+.content h3{
+    margin-left: 15px;
+}
+.content p{
+    margin-left: 30px;
+}
+.content ul li{
+    margin-left: 45px;
+}
+.content .dacdiem{
+    margin-left: 55px;
+}
+.content .dacdiemdacdiem{
+    margin-left: 65px;
+}
+
+.main{
+    flex: 3;
+}
+
+.footer{
+    flex: 1;
+    margin-top: 60px;
+    padding: 30px;
+}
